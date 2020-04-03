@@ -1,0 +1,23 @@
+.area-wrapper {
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width:100%;
+    margin-top: 20px;
+}
+
+.area-label {
+    font-size: 1rem;
+    color:#333;
+    display:flex;
+    width:86px;
+    margin-right: 35px;
+
+}
+ .area-content {
+    /*width:970px;*/
+    /* height:116px; */
+ }
+ .area-style:hover{
+     color:#3E75FC;
+ }

@@ -1,0 +1,26 @@
+.achieve_wrapper {
+
+    margin-top: 30px;
+
+}
+
+.achieve-label {
+    font-size: 16px;
+    color:#333;
+    display:flex;
+    width:64px;
+    margin-right: 35px;
+    height:32px;
+    align-items: center;
+}
+
+.achieve-content {
+    height: auto;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.area-style:hover{
+    color:'#3E75FC'
+}

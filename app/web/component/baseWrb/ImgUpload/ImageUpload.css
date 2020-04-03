@@ -1,0 +1,17 @@
+.image-upload-thumbnail-card {
+  display: inline-block;
+  width: 118px;
+  height: 118px;
+  border: solid 1px #d3d3d3;
+  border-radius: 4px;
+  vertical-align: top;
+  padding: 6px;
+  margin: 0 6px 6px 0;
+}
+
+.image-upload-thumbnail img{
+   
+    height: 100%;
+    width: 100%;
+  
+}

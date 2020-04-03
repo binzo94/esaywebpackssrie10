@@ -1,0 +1,139 @@
+.infoTop{
+    width:1200px;
+    height: 170px;
+    padding-top: 40px;
+    background: rgba(255,255,255,1);
+    /* border:1px solid #EEEEEE; */
+}
+/* .infoBox{
+    width:850px;
+    height: 115px;
+    margin-left: 30px;
+}
+.infoBox_base{
+    float: left;
+    width: 258px;
+    height: 100%;
+    border-right: 1px solid #EEEEEE;
+    padding-top: 20px;
+} */
+.infoBox_base_img{
+    margin-left: 40px;
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.infoBox_base_img img{
+    width: 100px;
+    height: 100px;
+}
+.infoBox_base_name{
+    float: left;
+    margin-left: 30px;
+}
+.infoBox_base_name div:nth-child(1){
+    font-size:18px;
+    font-family:'Microsoft YaHei';
+    font-weight:400;
+    color:rgba(43,100,241,1);
+    line-height:18px;
+}
+.infoBox_base_name div:nth-child(2){
+    margin-top: 24px;
+    margin-bottom: 18px;
+    font-size:16px;
+    font-family:'Microsoft YaHei';
+    font-weight:400;
+    color:rgba(102,102,102,1);
+    line-height:16px;
+}
+.infoBox_base_name div:nth-child(2) span{
+    width:76px;
+    height:28px;
+    margin-left:13px;
+    padding:6px 10px;
+    background:rgba(43,100,241,1);
+    border-radius:4px;
+    font-size:14px;
+    font-family:'Microsoft YaHei';
+    font-weight:400;
+    color:rgba(255,255,255,1);
+    line-height:14px;
+
+}
+.infoBox_base_name div:nth-child(3){
+    font-size:16px;
+    font-family:'Microsoft YaHei';
+    font-weight:400;
+    color:rgba(102,102,102,1);
+    line-height:16px;
+}
+.infoBox_base_name div:nth-child(3) span{
+    margin-left: 20px;
+    font-size:14px;
+    font-family:'Microsoft YaHei';
+    font-weight:400;
+    color:#2B64F1;
+    line-height:14px;
+}
+.infoBox_vip{
+    float: left;
+    width: 237px;
+    height: 100%;
+    border-right: 1px solid #EEEEEE;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.infoBox_vip_img{
+    width: 54px;
+    height: 60px;
+    float: left;
+    margin-top: 10px;
+}
+.infoBox_vip_img img{
+    width: 54px;
+    height: 60px;
+}
+.infoBox_vip_update{
+    float: left;
+}
+.infoBox_vip_update div:nth-child(1){
+    margin-top: 10px;
+    margin-left: 15px;
+    font-size: 20px;
+    color: #097FCA;
+}
+.infoBox_vip_update div:nth-child(2){
+    margin-top: 0px;
+    margin-left: 15px;
+    width: 100px;
+    height: 26px;
+    line-height: 26px;
+}
+
+.infoBox_Certifie{
+    width: 355px;
+    float: left;
+    height: 100%;
+    padding-left: 48px;
+    padding-top: 20px;
+}
+.infoBox_Certifie p:nth-child(1){
+    line-height: 20px;
+    font-weight: 450;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.infoBox_Certifie p:nth-child(2){
+    line-height: 20px;
+    font-weight: 200;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.infoBox_Certifie p:nth-child(3){
+    line-height: 20px;
+    color: #3490d1;
+    font-size: 14px;
+    margin-bottom: 5px;
+}

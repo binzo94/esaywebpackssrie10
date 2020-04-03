@@ -1,0 +1,20 @@
+.keyWords_wrapper{
+    margin-top:20px;
+}
+
+.keyWords_label{
+    font-size: 1rem;
+    color:#333;
+    display:flex;
+    width:64px;
+    margin-right: 35px;
+    height:32px;
+    align-items: center;
+}
+
+.keyWords_content {
+    height: 32px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

@@ -1,0 +1,40 @@
+.achieve_wrapper {
+
+    margin-top: 30px;
+
+}
+
+.achieve-label {
+    font-size: 16px;
+    color:#333;
+    display:flex;
+    width:64px;
+    margin-right: 35px;
+    height:32px;
+    align-items: center;
+}
+
+.achieve-content {
+    height: auto;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.area-style:hover{
+    color:#3E75FC;
+}
+.small-modal .ant-modal-footer{
+    padding:10px
+}
+.small-modal .ant-modal-footer button{
+    width:110px;
+    height:30px;
+    border-radius:5px;
+}
+.small-modal .ant-modal-footer button + button{
+    background-color: #2B64F1;
+}
+.small-modal .ant-modal-footer button + button:hover{
+    background-color: #3E75FC;
+}

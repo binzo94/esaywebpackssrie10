@@ -1,0 +1,7 @@
+
+.ant-table-pagination.ant-pagination {
+    padding-right: 20px;
+}
+table{
+    table-layout: fixed;
+}
